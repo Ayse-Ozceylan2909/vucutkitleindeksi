@@ -1,0 +1,2 @@
+# vucutkitleindeksi
+vucut-kitle-indeksi
